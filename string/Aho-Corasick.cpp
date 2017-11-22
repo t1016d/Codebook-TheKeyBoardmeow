@@ -1,8 +1,4 @@
 // AC code of UVa 10679
-#include <cstdio>
-#include <cstring>
-#include <new>
-
 struct Trie {
 	int c;
 	bool fi=0;

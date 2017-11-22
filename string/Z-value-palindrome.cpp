@@ -1,15 +1,4 @@
 // AC code of NTUJ1871
-#include <bits/stdc++.h>
-#define pb push_back
-#define F first
-#define S second
-#define SZ(x) ((int)(x).size())
-#define MP make_pair
-using namespace std;
-typedef long long ll;
-typedef pair<int,int> PII;
-typedef vector<int> VI;
-
 char in[100100];
 char s[200100];
 int z[200100];

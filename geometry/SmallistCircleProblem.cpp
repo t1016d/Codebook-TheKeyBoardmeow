@@ -1,10 +1,3 @@
-#include <cstdlib>
-#include <cstdio>
-#include <algorithm>
-#include <cmath>
-
-using namespace std;
-
 const int N = 1000000 + 10;
 
 struct PT {
