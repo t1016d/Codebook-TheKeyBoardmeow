@@ -1,3 +1,4 @@
+// AC code of NTUJ1871
 char in[100100];
 char s[200100];
 int z[200100];

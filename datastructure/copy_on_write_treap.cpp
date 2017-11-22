@@ -1,11 +1,3 @@
-#include <cstdlib>
-#include <cstdio>
-#include <algorithm>
-#include <climits>
-#include <cstring>
- 
-using namespace std;
- 
 const int N = 1000000 + 10;
  
 struct Treap {

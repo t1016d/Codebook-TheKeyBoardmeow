@@ -1,10 +1,3 @@
-#include <cstdlib>
-#include <cstdio>
-#include <algorithm>
-#include <cstring>
- 
-using namespace std;
- 
 const int INF = 103456789;
  
 struct Treap {
